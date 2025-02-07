@@ -1,0 +1,25 @@
+{
+  "name": "market-cap-tool",
+  "version": "1.0.0",
+  "description": "多链市值管理工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzh156/--v2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/zzh156/--v2/issues"
+  },
+  "homepage": "https://github.com/zzh156/--v2#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5"
+  }
+}
